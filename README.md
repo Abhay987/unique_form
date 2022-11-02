@@ -28,7 +28,7 @@ dependencies:
 
 ```dart
 
-import 'package:fully_customizable_form_fields/fully_customizable_form_fields.dart';
+import 'package:unique_form/unique_form.dart';
 
 class Example extends StatefulWidget {
   const Example({Key? key}) : super(key: key);
