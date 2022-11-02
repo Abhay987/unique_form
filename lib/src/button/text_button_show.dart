@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-///Return Text Button
+///Return Text Button Widget
 class TextButtonShow extends StatelessWidget {
   final Widget child;
   final Function? onPressed;

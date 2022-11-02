@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-///Return Elevated Button
+///Return Elevated Button Widget
 class ElevatedButtonShow extends StatelessWidget {
   final Widget? child;
   final Function? onPressed;

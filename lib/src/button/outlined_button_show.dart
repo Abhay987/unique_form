@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-///Return Outlined Button
+///Return Outlined Button Widget
 class OutlinedButtonShow extends StatelessWidget {
   final Function? onPressed;
   final Widget child;
